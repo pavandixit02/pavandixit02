@@ -361,10 +361,15 @@ My current learning direction includes:
 **GitHub:**  
 https://github.com/pavandixit02
 
+**LinkdIN:**
+https://www.linkdin.com/in/pavan-dixit-677558291
+
 **X (Twitter):**  
 https://x.com/pavandixit775
 
+
 **Resume:**  
+
 `Pavan_Kumar_Dixit_Resume.pdf` — available in this repository.
 
 > LinkedIn link can be added here once the profile URL is finalized.

@@ -369,6 +369,7 @@ https://x.com/pavandixit775
 
 
 **Resume:**  
+
 `Pavan_Kumar_Dixit_Resume.pdf` — available in this repository.
 
 > LinkedIn link can be added here once the profile URL is finalized.

@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/pavandixit02">GitHub</a> •
-  <a href="https://www.linkdin.com/in/pavan-dixit-677558291">Linkdin</a>•
+  <a href="https://www.linkdin.com/in/pavan-dixit-677558291">Linkdin</a> •
   <a href="https://x.com/pavandixit775">X (Twitter)</a>
 </p>
 

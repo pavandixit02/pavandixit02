@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/pavandixit02">GitHub</a> •
-  <a href="https://www.linkdin.com/in/pavan-dixit-677558291">Linkdin</a>•
+  <a href="https://www.linkdin.com/in/pavan-dixit-677558291">Linkdin</a> •
   <a href="https://x.com/pavandixit775">X (Twitter)</a>
 </p>
 
@@ -361,8 +361,12 @@ My current learning direction includes:
 **GitHub:**  
 https://github.com/pavandixit02
 
+**LinkdIN:**
+https://www.linkdin.com/in/pavan-dixit-677558291
+
 **X (Twitter):**  
 https://x.com/pavandixit775
+
 
 **Resume:**  
 `Pavan_Kumar_Dixit_Resume.pdf` — available in this repository.
